@@ -19,7 +19,7 @@
                 </div>
                 <ul class = "menu menu-hide">
                     <li class="menu-item">
-                        <a class = "code-btn" href = "#" onclick = "alert('Currently testing the code across multiple browsers, both desktop and mobile. Project code will be available on GitHub soon.');">View Code</a>
+                        <a class = "code-btn" href = "https://github.com/dvereen1/CoolCardAnimation">View Code</a>
                     </li>
                     <li class="menu-item">
                         <a href = "/#portfolio-">Portfolio</a>
