@@ -1,4 +1,5 @@
 <?php include_once('headNoNav.php');?> 
+        <base href = "/portfolio/cardAnimation/">
         <title>Cool Card Animation</title>
         <link href = "cardAnimation.css" rel = "stylesheet">
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
